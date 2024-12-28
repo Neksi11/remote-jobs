@@ -416,7 +416,7 @@ Name | Website | Region
 [Jitbit](/company-profiles/jitbit.md) | https://www.jitbit.com/ | Worldwide
 [Jitera](/company-profiles/jitera.md) | https://iruuza-inc.com/ | Worldwide
 [Jobsity](/company-profiles/jobsity.md) | https://recruitment.jobsity.com/ | USA, LATAM
-[Jolly Good Code](/company-profiles/jolly-good-code.md) | https://www.jollygoodcode.com | Worldwide
+[Jolly Good Code](/company-profiles/jolly-good-code.md) | https://www.jollygoodcode.com | Worldwide.
 [JOOR](/company-profiles/joor.md) | https://www.joor.com | Europe
 [journy.io](/company-profiles/journy-io.md) | https://www.journy.io | Europe
 [Joyent](/company-profiles/joyent.md) | https://www.joyent.com/careers/ | USA, UK, Canada, SK, SG
